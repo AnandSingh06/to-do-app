@@ -16,12 +16,3 @@ let ul=document.querySelector("ul");
       par.remove();
      }
  })
-//  let delbtns=document.querySelectorAll(".delete");
-//  for(delBtn of delb-tns) {
-//    delBtn.addEventListener("click",function(){
-//        let par = this.parentElement;//delBtn.parentElement;
-       
-       
-//        par.remove();
-//    })
-//  }
